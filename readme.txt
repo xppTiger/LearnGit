@@ -4,3 +4,4 @@ Git is a free software.
 Add a line to understand the Git stage.
 
 Git works on changes, other than files.
+Add more changes after adding.
