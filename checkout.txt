@@ -1,0 +1,4 @@
+No 1 is a basic line in repository.
+
+No 2 in stage.
+
